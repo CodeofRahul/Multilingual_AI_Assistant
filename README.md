@@ -1,6 +1,6 @@
 # Multilingual AI Assistant
 
-This project is a **Multilingual AI Assistant** built using Python, Google's Generative AI (Gemini), and Streamlit. The assistant can take voice commands, process them using Google's speech recognition, generate responses using the Gemini model, and convert the response into speech using Google Text-to-Speech (gTTS). The application is designed to be user-friendly and can be accessed via a web interface powered by Streamlit.
+This project is a **Multilingual AI Assistant** built using Python, Google's Generative AI (Gemini), and Streamlit. The assistant can take voice commands, process them using Google's speech recognition, generate responses using the Gemini model, and convert the response into speech using Google Text-to-Speech (gTTS). The application is designed to be user-friendly and can be accessed via a web interface. This app is designed using Streamlit.
 
 ## Features
 - **Voice Command Recognition**: The assistant listens to user commands via microphone input.
@@ -16,6 +16,9 @@ This project is a **Multilingual AI Assistant** built using Python, Google's Gen
 - **Streamlit**: Framework for building and deploying the web interface.
 - **Logging**: For tracking and debugging the application.
 
+# **This is how it looks:**
+
+![app_image](https://github.com/user-attachments/assets/82f9c3ea-696d-4ddc-9b22-43669214a08a)
 
 
 
